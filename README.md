@@ -1,6 +1,6 @@
 
 # Description
-This is a tool that leverages the power of LangChain and LLM technologies. It's designed to automatically generate personalized cover letters by analyzing job postings and the user's CV.
+Generate personalized cover letters by analyzing job postings and the user's CV.
 
 ## Initial Setup
 First, create a dedicated virtual environment to manage dependencies:
